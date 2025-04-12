@@ -1,0 +1,8 @@
+## Gitignore for venv
+venv/
+.venv/
+env/
+.env
+
+## Vector database files
+*.bin
