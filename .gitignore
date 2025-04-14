@@ -6,3 +6,6 @@ env/
 
 ## Vector database files
 *.bin
+
+## Pycahce
+__pycache__/
