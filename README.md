@@ -1,4 +1,6 @@
 # 🌐 Open Source LLM Translator
+![smart-llm-translator-groq](https://github.com/user-attachments/assets/372d6c53-b133-4558-bab3-a3e495157e8d)
+
 
 This is a FastAPI and Streamlit-based application that enables users to:
 - Translate text into various languages,
