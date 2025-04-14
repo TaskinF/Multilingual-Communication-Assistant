@@ -151,9 +151,3 @@ async def full_analysis(request: Request):
         "style": paraphrase_style,
         "model_used": model_choice
     }
-
-add_routes(
-    app,
-    translation_chain,
-    path="/analyze"
-)

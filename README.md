@@ -53,8 +53,8 @@ The app uses open-source LLMs (Gemma, LLaMA, Qwen) via the Groq API for fast and
     streamlit run app.py
 
 ## API Endpoints
-Endpoint	Method	Description
-/translate	POST	Translates text into the target language
-/sentiment	POST	Analyzes the sentiment of the text
-/paraphrase	POST	Paraphrases the input text
-/analyze	POST	Performs translation, sentiment, and paraphrasing in one request
+- Endpoint	  Method	Description
+- /translate	POST	Translates text into the target language
+- /sentiment	POST	Analyzes the sentiment of the text
+- /paraphrase	POST	Paraphrases the input text
+- /analyze	POST	Performs translation, sentiment, and paraphrasing in one request
